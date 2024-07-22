@@ -69,8 +69,6 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 - A Local Communication System over Wi-Fi Direct: Implementation and Performance Evaluation. <b>Fuliang Li</b>, Xingwei Wang, Zijian Wang, Jianong Cao, Xuefeng Liu, Yuanguo Bi, Weichao Li, and Yi Wang. <i> IEEE Internet of Things Journal, vol. 7, no. 6, pp. 5140-5158. </i> [<A href="https://ieeexplore.ieee.org/abstract/document/9011605" target="_blank">pdf</A>].
 - State-of-the-art Survey of Intent-based Networking. <b>LI Fu-Liang</b>, FAN Guang-Yu, WANG Xing-Wei, LIU Shu-Cheng, XIE Kun, SUN Qiong <i> Journal of Software, vol. 31, issue. 8, pp. 2574-2687. </i> [<A href="https://jos.org.cn/josen/article/abstract/6088" target="_blank">pdf</A>].
 
-<h3><strong>2019</strong></h3>
-
 - Reliable Fog-based Crowdsourcing: A Temporal-Spatial Task Allocation Approach. Yao Yu, <b>Fuliang Li</b>, Shumei Liu, Jinli Huang, and Lei Guo. <i> IEEE Internet of Things Journal, vol. 7, no. 5, pp. 3968-3976. </i> [<A href="https://ieeexplore.ieee.org/abstract/document/8918307" target="_blank">pdf</A>].
 
 # 💡 Projects

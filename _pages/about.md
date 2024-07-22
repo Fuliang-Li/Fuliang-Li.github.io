@@ -34,12 +34,14 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 <h3><strong>2024</strong></h3>
 
 - MTU-Adaptive In-Band Network-Wide Telemetry. <b>Fuliang Li</b>, Qianchen Yuan, Tian Pan, Xingwei Wang, and Jiannong Cao. <i> IEEE/ACM Transactions on Networking (TON), vol. 32, no. 3, pp. 2315-2330. </i> [CCF A] [<A href="https://ieeexplore.ieee.org/document/10400437" target="_blank">pdf</A>].
-- MLearning-Based Sketch for Adaptive and High-Performance Network Measurement. <b>Fuliang Li</b>, Yiming Lv, Yangsheng Yan, Chengxi Gao, Xingwei Wang, and Jiannong Cao. <i> IEEE/ACM Transactions on Networking (TON), vol. 32, no. 3, pp. 2571-2585. </i> [CCF A] [<A href="https://ieeexplore.ieee.org/abstract/document/10436630" target="_blank">pdf</A>].
+- Learning-Based Sketch for Adaptive and High-Performance Network Measurement. <b>Fuliang Li</b>, Yiming Lv, Yangsheng Yan, Chengxi Gao, Xingwei Wang, and Jiannong Cao. <i> IEEE/ACM Transactions on Networking (TON), vol. 32, no. 3, pp. 2571-2585. </i> [CCF A] [<A href="https://ieeexplore.ieee.org/abstract/document/10436630" target="_blank">pdf</A>].
 - Distributed Program Deployment for Resource-aware Programmable Switches. <b>Fuliang Li</b>, Songlin Chen, Xingxin Jia, Chengxi Gao, Pengfei Wang, Xingwei Wang, and Jiannong Cao. <i>  IEEE Transactions on Computers (TC), vol. 73, no. 5, pp. 1357-1370. </i> [CCF A] [<A href="https://ieeexplore.ieee.org/abstract/document/10406207" target="_blank">pdf</A>].
 - Human-Intent-Driven Cellular Configuration Generation Using Program Synthesis. <b>Fuliang Li</b>, Chenyang Hei, Jiaxing Shen, Qing Li, and Xingwei Wang. <i> IEEE Journal on Selected Areas in Communications (JSAC), vol. 42, no. 3, pp. 658-668. </i> [CCF A] [<A href="https://ieeexplore.ieee.org/abstract/document/10368062" target="_blank">pdf</A>].
 - Effective Network-Wide Traffic Measurement: A Lightweight Distributed Sketch Deployment. <b>Fuliang Li</b>, Kejun Guo, Jiaxing Shen, and Xingwei Wang. <i> IEEE International Conference on Computer Communications (INFOCOM 2024). </i>  [CCF A] [<A href="https://shenjiaxing.github.io/pdf/effectiveli2023.pdf" target="_blank">pdf</A>].
 - Advancing Sketch-based Network Measurement: A General, Fine-Grained, Bit-Adaptive Sliding Window Framework. Kejun Guo, <b>Fuliang Li#</b>, Jiaxing Shen, and Xingwei Wang. <i> IEEE/ACM International Symposium on Quality of Service (IWQoS 2024). </i> [<A href="https://shenjiaxing.github.io/pdf/2024/advancingguo2024.pdf" target="_blank">pdf</A>].
 - Routing Optimization With Deep Reinforcement Learning in Knowledge Defined Networking. Qiang He, Yu Wang, Xingwei Wang#, Weiqiang Xu, <b>Fuliang Li#</b>, Kaiqi Yang, and Lianbo Ma. <i> IEEE Transactions on Mobile Computing (TMC), vol. 23, no. 2, pp. 1444-1455. </i> [CCF A] [<A href="https://ieeexplore.ieee.org/abstract/document/10012574" target="_blank">pdf</A>].
+- Haifeng Sun, Qun Huang, Jinbo Sun, Wei Wang, Jiaheng Li, **Fuliang Li**, Yungang Bao, Xin Yao, Gong Zhang. AutoSketch: Automatic Sketch-Oriented Compiler for Query-driven Network Telemetry.
+  NSDI, 2024.  [CCF A] 
 
 <h3><strong>2023</strong></h3>
 

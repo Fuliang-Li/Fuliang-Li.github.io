@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bachelor’s degree in Computer Science and Engineering from Northeastern University in 2009 and was directly admitted to Tsinghua University’s Institute for Network Sciences and Cyberspace as a Ph.D. student, under the supervision of Professor Wu Jianping (<a href="https://www.tsinghua.edu.cn/info/1166/93896.htm" target="_blank">吴建平</a>). I earned my Ph.D. degree from Tsinghua University in 2015. Now, I work with Professor Xingwei Wang (<a href="https://dblp.org/pid/99/4694-1.html" target="_blank">王兴伟</a>). My main research interests include the bridging between networking and AI.
+Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bachelor’s degree in Computer Science and Engineering from Northeastern University in 2009 and was directly admitted to Tsinghua University’s Institute for Network Sciences and Cyberspace as a Ph.D. student, under the supervision of Professor Wu Jianping (<a href="https://www.tsinghua.edu.cn/info/1166/93896.htm" target="_blank">吴建平</a>). I earned my Ph.D. degree from Tsinghua University in 2015. Now, I work with Professor Xingwei Wang (<a href="https://neu.edu.cn/info/1012/3221.htm" target="_blank">王兴伟</a>). My main research interests include computer networks, as well as the bridging between networking and AI.
 
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 We have one paper accepted by TSC. 

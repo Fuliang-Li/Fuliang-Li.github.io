@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Fuliang Li"
 description              : "Professor"
-repository               : "Crush9i/Crush9i.github.io"
+repository               : "Fuliang-Li/fuliang-li.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -24,7 +24,7 @@ author:
   name             : "Fuliang Li"
   avatar           : "images/lifuliang.jpg"
   bio              : "Northeastern University (Room B220, Building of Information)"
-  location         :  "Shenyang, Liaoning, China"
+  location         :  "Shenyang, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_3lWJy0AAAAJ"

@@ -29,7 +29,7 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 - *Sep, 2005 - Jul, 2009*, Dept. of Computer Science and Technology, Northeastern University, Shenyang, China. 
 
 # 📝 Publications 
-
+# indicates corresponding author.
 <h3><strong>2024</strong></h3>
 
 - MTU-Adaptive In-Band Network-Wide Telemetry. <b>Fuliang Li</b>, Qianchen Yuan, Tian Pan, Xingwei Wang, and Jiannong Cao. <i> IEEE/ACM Transactions on Networking (TON), vol. 32, no. 3, pp. 2315-2330. </i> [CCF A] [<A href="https://ieeexplore.ieee.org/document/10400437" target="_blank">pdf</A>].

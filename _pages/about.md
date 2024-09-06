@@ -20,6 +20,7 @@ redirect_from:
 Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bachelor’s degree in Computer Science and Engineering from Northeastern University in 2009 and was directly admitted to Tsinghua University’s Institute for Network Sciences and Cyberspace as a Ph.D. student, under the supervision of Professor Wu Jianping (<a href="https://www.tsinghua.edu.cn/info/1166/93896.htm" target="_blank">吴建平</a>). I earned my Ph.D. degree from Tsinghua University in 2015. Now, I work with Professor Xingwei Wang (<a href="https://neu.edu.cn/info/1012/3221.htm" target="_blank">王兴伟</a>). My main research interests include computer networks, as well as the bridging between networking and AI.
 
 # 🔥 News
+- *2024.09*: &nbsp;🎉🎉 We have one paper accepted by TON 
 - *2024.07*: &nbsp;🎉🎉 We have one paper accepted by ICNP 2024. 
 - *2024.07*: &nbsp;🎉🎉 We have one paper jointly with ByteDance accepted by NSDI 2025. 
 - *2024.07*: &nbsp;🎉🎉 We have one paper accepted by TSC. 
@@ -33,8 +34,10 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 # 📝 Publications 
 
 #indicates corresponding author.
+
 <h3><strong>2024</strong></h3>
 
+- Explainable Network Verification. **Fuliang Li**, Minglong Li, Yunhang Pu, Yuxin Zhang, Xingwei Wang, Jiannong Cao.  <i>IEEE/ACM Transactions on Networking (TON). </i> [CCF A].
 - MTU-Adaptive In-Band Network-Wide Telemetry. <b>Fuliang Li</b>, Qianchen Yuan, Tian Pan, Xingwei Wang, and Jiannong Cao. <i> IEEE/ACM Transactions on Networking (TON), vol. 32, no. 3, pp. 2315-2330. </i> [CCF A] [<A href="https://ieeexplore.ieee.org/document/10400437" target="_blank">pdf</A>].
 - Learning-Based Sketch for Adaptive and High-Performance Network Measurement. <b>Fuliang Li</b>, Yiming Lv, Yangsheng Yan, Chengxi Gao, Xingwei Wang, and Jiannong Cao. <i> IEEE/ACM Transactions on Networking (TON), vol. 32, no. 3, pp. 2571-2585. </i> [CCF A] [<A href="https://ieeexplore.ieee.org/abstract/document/10436630" target="_blank">pdf</A>].
 - Distributed Program Deployment for Resource-aware Programmable Switches. <b>Fuliang Li</b>, Songlin Chen, Xingxin Jia, Chengxi Gao, Pengfei Wang, Xingwei Wang, and Jiannong Cao. <i>  IEEE Transactions on Computers (TC), vol. 73, no. 5, pp. 1357-1370. </i> [CCF A] [<A href="https://ieeexplore.ieee.org/abstract/document/10406207" target="_blank">pdf</A>].

@@ -20,6 +20,7 @@ redirect_from:
 Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bachelor’s degree in Computer Science and Engineering from Northeastern University in 2009 and was directly admitted to Tsinghua University’s Institute for Network Sciences and Cyberspace as a Ph.D. student, under the supervision of Professor Wu Jianping (<a href="https://www.tsinghua.edu.cn/info/1166/93896.htm" target="_blank">吴建平</a>). I earned my Ph.D. degree from Tsinghua University in 2015. Now, I work with Professor Xingwei Wang (<a href="https://neu.edu.cn/info/1012/3221.htm" target="_blank">王兴伟</a>). My main research interests include computer networks, as well as the bridging between networking and AI.
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 We have one paper accepted by TC [CCF A].
 - *2024.10*: &nbsp;🎉🎉 We have one paper accepted by JSAC [CCF A].
 - *2024.10*: &nbsp;🎉🎉 We have one paper accepted by TC [CCF A]. 
 - *2024.09*: &nbsp;🎉🎉 We have one paper accepted by TON [CCF A]. 
@@ -39,6 +40,7 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 
 <h3><strong>2024</strong></h3>
 
+- Distributed Sketch Deployment for Software Switches. Kejun Guo, <b>Fuliang Li</b>,  Jiaxing Shen,  Xingwei Wang and Jiannong Cao. <i>  IEEE Transactions on Computers (TC). </i> [CCF A] 
 - Performance Characteristics and Guidelines of Offloading Middleboxes onto BlueField-2 DPU.  <b>Fuliang Li</b>, Qin Chen, Jiaxing Shen,  Xingwei Wang, Jiannong Cao. <i>  IEEE Transactions on Computers (TC). </i> [CCF A] 
 - AutoSRv6: Configuration Synthesis for Segment Routing over IPv6. Bocheng Liang, **Fuliang Li**, Naigong Zheng, Xingwei Wang, Jiannong Cao. *IEEE Journal on Selected Areas in Communications (JSAC)*. [CCF A]
 - Explainable Network Verification. **Fuliang Li**, Minglong Li, Yunhang Pu, Yuxin Zhang, Xingwei Wang, Jiannong Cao.  <i>IEEE/ACM Transactions on Networking (TON). </i> [CCF A].

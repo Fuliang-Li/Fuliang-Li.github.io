@@ -20,6 +20,9 @@ redirect_from:
 Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bachelor’s degree in Computer Science and Engineering from Northeastern University in 2009 and was directly admitted to Tsinghua University’s Institute for Network Sciences and Cyberspace as a Ph.D. student, under the supervision of Professor Wu Jianping (<a href="https://www.tsinghua.edu.cn/info/1166/93896.htm" target="_blank">吴建平</a>). I earned my Ph.D. degree from Tsinghua University in 2015. Now, I work with Professor Xingwei Wang (<a href="https://neu.edu.cn/info/1012/3221.htm" target="_blank">王兴伟</a>). My main research interests include computer networks, as well as the bridging between networking and AI.
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 We have one paper accepted by TON [CCF A].
+- *2025.04*: &nbsp;🎉🎉 We have some papers accepted by IWQoS 2025 [CCF B].
+- *2025.03*: 🎉🎉 We have one paper published by TMC [CCF A].
 - *2024.12*: &nbsp;🎉🎉 We have one paper accepted by TC [CCF A].
 - *2024.10*: &nbsp;🎉🎉 We have one paper accepted by JSAC [CCF A].
 - *2024.10*: &nbsp;🎉🎉 We have one paper accepted by TC [CCF A]. 
@@ -38,9 +41,20 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 
 #indicates corresponding author.
 
+<h3><strong>2025</strong></h3>
+
+- INT-Partition: Hierarchical and Fault-tolerant In-band Network Telemetry. Qianchen Yuan, <b>Fuliang Li#</b>, Tian Pan, Yuhua Lai, Yetao Gu, Xingwei Wang, and Jiannong Cao. <i> IEEE/ACM Transactions on Networking (TON)</i> .  [CCF A] 
+- Intelligent Task Offloading and Resource Allocation in Knowledge Defined Edge Computing Networks. Chuangchuang Zhang, Qiang He, **Fuliang Li**, Keping Yu. <i> IEEE Transactions on Mobile Computing (TMC). </i> [CCF A] 
+- REP4: Automated Testing and Repairing Programmable Data Planes. Wen Li, Chuyuan Liu, **Fuliang Li#**, Xingwei Wang. <i> IEEE/ACM International Symposium on Quality of Service (IWQoS 2025). </i>  [CCF B]
+- SmartTC: A Real-Time ML-Based Traffic Classification with SmartNIC. Lingxiang Hu, Chenyang Hei, **Fuliang Li#**, Chengxi Gao, Jiaxing Shen, Xingwei Wang. <i> IEEE/ACM International Symposium on Quality of Service (IWQoS 2025). </i>  [CCF B]
+- Automatically Mining the Causality between Network Configurations and Routing Behaviors. **Fuliang Li**, Tangzheng Xie, Bocheng Liang, Zhenbei Guo, Haozhi Lang, Xingwei Wang. <i> IEEE/ACM International Symposium on Quality of Service (IWQoS 2025). </i>  [CCF B]
+- NetMAS: Efficient Network Configuration Translation with Multi-Agent System. Chenyang Liu, **Fuliang Li#**, Naigong Zheng, Xingwei Wang. <i> IEEE/ACM International Symposium on Quality of Service (IWQoS 2025). </i>  [CCF B]
+- LA-Sketch: An Adaptive Level-Aware Sketch for Efficient Network Traffic Measurement. Yuting Liu, Kejun Guo, **Fuliang Li#**, Jiaxing Shen, Xingwei Wang. <i> IEEE/ACM International Symposium on Quality of Service (IWQoS 2025). </i>  [CCF B]
+- ConfigChecker: Automated Network Configuration Validation with Large Language Model and Knowledge Graph. **Fuliang Li**, Jie Zhong, Bocheng Liang, Zhenbei Guo, Xingwei Wang. <i> IEEE/ACM International Symposium on Quality of Service (IWQoS 2025). </i>  [CCF B]
+
 <h3><strong>2024</strong></h3>
 
-- Distributed Sketch Deployment for Software Switches. Kejun Guo, <b>Fuliang Li</b>,  Jiaxing Shen,  Xingwei Wang and Jiannong Cao. <i>  IEEE Transactions on Computers (TC). </i> [CCF A] 
+- Distributed Sketch Deployment for Software Switches. Kejun Guo, <b>Fuliang Li#</b>,  Jiaxing Shen,  Xingwei Wang and Jiannong Cao. <i>  IEEE Transactions on Computers (TC). </i> [CCF A] 
 - Performance Characteristics and Guidelines of Offloading Middleboxes onto BlueField-2 DPU.  <b>Fuliang Li</b>, Qin Chen, Jiaxing Shen,  Xingwei Wang, Jiannong Cao. <i>  IEEE Transactions on Computers (TC). </i> [CCF A] 
 - AutoSRv6: Configuration Synthesis for Segment Routing over IPv6. Bocheng Liang, **Fuliang Li**, Naigong Zheng, Xingwei Wang, Jiannong Cao. *IEEE Journal on Selected Areas in Communications (JSAC)*. [CCF A]
 - Explainable Network Verification. **Fuliang Li**, Minglong Li, Yunhang Pu, Yuxin Zhang, Xingwei Wang, Jiannong Cao.  <i>IEEE/ACM Transactions on Networking (TON). </i> [CCF A].

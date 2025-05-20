@@ -20,6 +20,7 @@ redirect_from:
 Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bachelor’s degree in Computer Science and Engineering from Northeastern University in 2009 and was directly admitted to Tsinghua University’s Institute for Network Sciences and Cyberspace as a Ph.D. student, under the supervision of Professor Wu Jianping (<a href="https://www.tsinghua.edu.cn/info/1166/93896.htm" target="_blank">吴建平</a>). I earned my Ph.D. degree from Tsinghua University in 2015. Now, I work with Professor Xingwei Wang (<a href="https://neu.edu.cn/info/1012/3221.htm" target="_blank">王兴伟</a>). My main research interests include computer networks, as well as the bridging between networking and AI.
 
 # 🔥 News
+- *2025.05*: &nbsp;🎉🎉 We have  another paper accepted by TON [CCF A].
 - *2025.05*: &nbsp;🎉🎉 We have one paper accepted by TON [CCF A].
 - *2025.04*: &nbsp;🎉🎉 We have some papers accepted by IWQoS 2025 [CCF B].
 - *2025.03*: 🎉🎉 We have one paper published by TMC [CCF A].
@@ -43,6 +44,7 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 
 <h3><strong>2025</strong></h3>
 
+- NetGenius: Routing Configuration Recommendation Based on Graph Neural Network. Zhenbei Guo, <b>Fuliang Li#</b>, Tangzheng Xie, Xingwei Wang, and Jiannong Cao. <i> IEEE/ACM Transactions on Networking (TON)</i> .  [CCF A] 
 - INT-Partition: Hierarchical and Fault-tolerant In-band Network Telemetry. Qianchen Yuan, <b>Fuliang Li#</b>, Tian Pan, Yuhua Lai, Yetao Gu, Xingwei Wang, and Jiannong Cao. <i> IEEE/ACM Transactions on Networking (TON)</i> .  [CCF A] 
 - Intelligent Task Offloading and Resource Allocation in Knowledge Defined Edge Computing Networks. Chuangchuang Zhang, Qiang He, **Fuliang Li**, Keping Yu. <i> IEEE Transactions on Mobile Computing (TMC). </i> [CCF A] 
 - REP4: Automated Testing and Repairing Programmable Data Planes. Wen Li, Chuyuan Liu, **Fuliang Li#**, Xingwei Wang. <i> IEEE/ACM International Symposium on Quality of Service (IWQoS 2025). </i>  [CCF B]

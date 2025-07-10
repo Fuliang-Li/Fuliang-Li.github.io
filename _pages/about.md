@@ -20,6 +20,7 @@ redirect_from:
 Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bachelor’s degree in Computer Science and Engineering from Northeastern University in 2009 and was directly admitted to Tsinghua University’s Institute for Network Sciences and Cyberspace as a Ph.D. student, under the supervision of Professor Wu Jianping (<a href="https://www.tsinghua.edu.cn/info/1166/93896.htm" target="_blank">吴建平</a>). I earned my Ph.D. degree from Tsinghua University in 2015. Now, I work with Professor Xingwei Wang (<a href="https://neu.edu.cn/info/1012/3221.htm" target="_blank">王兴伟</a>). My main research interests include computer networks, as well as the bridging between networking and AI.
 
 # 🔥 News
+- *2025.07*: &nbsp;🎉🎉 We have one more paper accepted by TON [CCF A].
 - *2025.06*: &nbsp;🎉🎉 We have one paper accepted by COMNET [CCF B].
 - *2025.06*: &nbsp;🎉🎉 We have one paper accepted by TC [CCF A]
 - *2025.05*: &nbsp;🎉🎉 We have  another paper accepted by TON [CCF A].
@@ -46,6 +47,7 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 
 <h3><strong>2025</strong></h3>
 
+- INT-Source: Topology-adaptive In-band Network-wide Telemetry. <b>Fuliang Li</b>, Qianchen Yuan,  Yuhua Lai, Zhenbei Guo, Elliott Wen, Tian Pan, Xingwei Wang, and Jiannong Cao. <i> IEEE/ACM Transactions on Networking (TON)</i> .  [CCF A] 
 - RTQS: Real-Time flow Fairness Queue Scheduling Policy on Router Devices. Hong Zhang, Zhenge Xu, Feixue Han, **Fuliang Li#**, Qing Li. *Computer Networks*. [CCF B]
 - SCC: Synchronization Congestion Control for Multi-tenant Learning over Geo-distributed Clouds. Chengxi Gao, **Fuliang Li**, Kejiang Ye, Yang Wang, Pengfei Wang, Xingwei Wang, Cheng-Zhong Xu. <i>  IEEE Transactions on Computers (TC). </i> [CCF A] 
 - NetGenius: Routing Configuration Recommendation Based on Graph Neural Network. Zhenbei Guo, <b>Fuliang Li#</b>, Tangzheng Xie, Xingwei Wang, and Jiannong Cao. <i> IEEE/ACM Transactions on Networking (TON)</i> .  [CCF A] 

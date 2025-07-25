@@ -45,26 +45,28 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 
 # 💡 Honors&Awards
 
-##### 2024年 入选国家级青年人才计划
+- **2024年 入选国家级青年人才计划**
 
-- **2024年 入选中央部委高层次人次计划**
+- 2024年 入选中央部委高层次人次计划
 
-**2024年 入选"兴辽英才计划"青年拔尖人才**
+- 2024年 入选"兴辽英才计划"青年拔尖人才
 
-2025年 获华为公司难题揭榜”火花奖
+- 2025年 获华为公司“难题揭榜”火花奖
 
 # 📝 Publications 
+
+*indicates equal contribution.
 
 #indicates corresponding author.
 
 <h3><strong>2025</strong></h3>
 
-- ResCCL: Resource-Efficient Scheduling for Collective  Communication. Tongrui Liu, Chenyang Hei, Fuliang Li, Chengxi Gao, Jianmin Cao, Tianshu Wang, Ennan Zhai, Xingwei Wang. ACM Special Interest Group on Data Communication (SIGCOMM 2025).  [CCF A] 
-- RA-Sketch: A Unified Framework for Rapid and Accurate Sketch Configurations. Kejun Guo, **Fuliang Li#**, Yuting Liu, Jiaxing Shen, Xingwei Wang. IEEE International Conference on Network Protocols (ICNP 2025) .  [CCF B]
-- MEC-Sketch: Memory-Efficient Per-Flow Cardinality Measurement in High-Speed Networks. Kejun Guo, **Fuliang Li#**, Yunjie Zhang, Haorui Wan, Jiaxing Shen, Xingwei Wang. IEEE International Conference on Network Protocols (ICNP 2025). [CCF B]
-- TuCCL: Tailored and Unified Configuration Optimizations for High-Performance Collective Communication Library. Ziming Li, Chenyang Hei, **Fuliang Li#**, Tongrui Liu, Chengxi Gao, Xiuzhu Sha, Xingwei Wang. IEEE International Conference on Network Protocols (ICNP 2025). [CCF B]
-- Canvas: Scalable Collective Communication Scheduling for Large-Scale GPU Clusters. Chenyang Hei, Yi Zhao, **Fuliang Li#**, Chengxi Gao, Tongrui Liu, Xiuzhu Sha, Xingwei Wang. IEEE International Conference on Network Protocols (ICNP 2025). [CCF B]
-- MAZ3: Memory-Assisted ZeRO-3 for Efficient Collective Communication. Yang Liu, Chenyang Hei, **Fuliang Li#**, Chengxi Gao, Xingwei Wang. IEEE International Conference on Network Protocols (ICNP 2025). [CCF B]
+- ResCCL: Resource-Efficient Scheduling for Collective  Communication. `Tongrui Liu`, Chenyang Hei, Fuliang Li, Chengxi Gao, Jianmin Cao, Tianshu Wang, Ennan Zhai, Xingwei Wang. ***ACM Special Interest Group on Data Communication (SIGCOMM 2025)***.  [CCF A] 
+- RA-Sketch: A Unified Framework for Rapid and Accurate Sketch Configurations. Kejun Guo, **Fuliang Li#**, Yuting Liu, Jiaxing Shen, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2025)* .  [CCF B]
+- MEC-Sketch: Memory-Efficient Per-Flow Cardinality Measurement in High-Speed Networks. Kejun Guo, **Fuliang Li#**, Yunjie Zhang, Haorui Wan, Jiaxing Shen, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2025)*. [CCF B]
+- TuCCL: Tailored and Unified Configuration Optimizations for High-Performance Collective Communication Library. Ziming Li, Chenyang Hei, **Fuliang Li#**, Tongrui Liu, Chengxi Gao, Xiuzhu Sha, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2025)*. [CCF B]
+- Canvas: Scalable Collective Communication Scheduling for Large-Scale GPU Clusters. Chenyang Hei, Yi Zhao, **Fuliang Li#**, Chengxi Gao, Tongrui Liu, Xiuzhu Sha, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2025)*. [CCF B]
+- MAZ3: Memory-Assisted ZeRO-3 for Efficient Collective Communication. Yang Liu, Chenyang Hei, **Fuliang Li#**, Chengxi Gao, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2025)*. [CCF B]
 - INT-Source: Topology-adaptive In-band Network-wide Telemetry. <b>Fuliang Li</b>, Qianchen Yuan,  Yuhua Lai, Zhenbei Guo, Elliott Wen, Tian Pan, Xingwei Wang, and Jiannong Cao. <i> IEEE/ACM Transactions on Networking (TON)</i> .  [CCF A] 
 - RTQS: Real-Time flow Fairness Queue Scheduling Policy on Router Devices. Hong Zhang, Zhenge Xu, Feixue Han, **Fuliang Li#**, Qing Li. *Computer Networks*. [CCF B]
 - SCC: Synchronization Congestion Control for Multi-tenant Learning over Geo-distributed Clouds. Chengxi Gao, **Fuliang Li**, Kejiang Ye, Yang Wang, Pengfei Wang, Xingwei Wang, Cheng-Zhong Xu. <i>  IEEE Transactions on Computers (TC). </i> [CCF A] 

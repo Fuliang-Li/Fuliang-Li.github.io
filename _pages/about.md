@@ -55,13 +55,13 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 
 # 📝 Publications 
 
-*indicates equal contribution.
++indicates equal contribution.
 
 #indicates corresponding author.
 
 <h3><strong>2025</strong></h3>
 
-- ResCCL: Resource-Efficient Scheduling for Collective  Communication. Tongrui Liu, Chenyang Hei, Fuliang Li, Chengxi Gao, Jianmin Cao, Tianshu Wang, Ennan Zhai, Xingwei Wang. **ACM Special Interest Group on Data Communication (SIGCOMM 2025)***.  [CCF A] 
+- ResCCL: Resource-Efficient Scheduling for Collective  Communication. Tongrui Liu+, Chenyang Hei+, Fuliang Li, Chengxi Gao, Jianmin Cao, Tianshu Wang, Ennan Zhai, Xingwei Wang. ***ACM Special Interest Group on Data Communication (SIGCOMM 2025)***.  [CCF A] 
 - RA-Sketch: A Unified Framework for Rapid and Accurate Sketch Configurations. Kejun Guo, **Fuliang Li#**, Yuting Liu, Jiaxing Shen, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2025)* .  [CCF B]
 - MEC-Sketch: Memory-Efficient Per-Flow Cardinality Measurement in High-Speed Networks. Kejun Guo, **Fuliang Li#**, Yunjie Zhang, Haorui Wan, Jiaxing Shen, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2025)*. [CCF B]
 - TuCCL: Tailored and Unified Configuration Optimizations for High-Performance Collective Communication Library. Ziming Li, Chenyang Hei, **Fuliang Li#**, Tongrui Liu, Chengxi Gao, Xiuzhu Sha, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2025)*. [CCF B]

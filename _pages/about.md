@@ -21,7 +21,7 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉🎉🎉🎉🎉We have one paper accepted by **SIGCOMM 2025** [CCF A].
-- *2025.07*: &nbsp;🎉🎉 We have some papers accepted by ICNP [CCF B].
+- *2025.07*: &nbsp;🎉🎉 We have some papers accepted by ICNP [CCF B，清华大学A类].
 - 2025.07: &nbsp;**🎉🎉 IEEE/ACM IWQoS 2025 Best Student Paper Runner-up**
 - *2025.07*: &nbsp;🎉🎉 We have one paper accepted by TON [CCF A].
 - *2025.06*: &nbsp;🎉🎉 We have one paper accepted by COMNET [CCF B].
@@ -29,12 +29,13 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 - *2025.05*: &nbsp;🎉🎉 We have  another paper accepted by TON [CCF A].
 - *2025.05*: &nbsp;🎉🎉 We have one paper accepted by TON [CCF A].
 - *2025.04*: &nbsp;🎉🎉 We have some papers accepted by IWQoS 2025 [CCF B].
-- *2025.03*: 🎉🎉 We have one paper published by TMC [CCF A].
+- *2025.03*: 🎉🎉 We have another paper published by TMC [CCF A].
+- *2025.02*: 🎉🎉 We have one paper published by TMC [CCF A].
 - *2024.12*: &nbsp;🎉🎉 We have one paper accepted by TC [CCF A].
 - *2024.10*: &nbsp;🎉🎉 We have one paper accepted by JSAC [CCF A].
 - *2024.10*: &nbsp;🎉🎉 We have one paper accepted by TC [CCF A]. 
 - *2024.09*: &nbsp;🎉🎉 We have one paper accepted by TON [CCF A]. 
-- *2024.07*: &nbsp;🎉🎉 We have one paper accepted by ICNP 2024 [CCF B]. 
+- *2024.07*: &nbsp;🎉🎉 We have one paper accepted by ICNP 2024 [CCF B，清华大学A类]. 
 - *2024.07*: &nbsp;🎉🎉 We have one paper jointly with ByteDance accepted by NSDI 2025 [CCF A]. 
 - *2024.07*: &nbsp;🎉🎉 We have one paper accepted by TSC [CCF A]. 
 - *2024.06*: &nbsp;🎉🎉 We have two papers published by TON [CCF A].
@@ -62,17 +63,18 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 <h3><strong>2025</strong></h3>
 
 - ResCCL: Resource-Efficient Scheduling for Collective  Communication. Tongrui Liu+, Chenyang Hei+, Fuliang Li#, Chengxi Gao, Jianmin Cao, Tianshu Wang, Ennan Zhai, Xingwei Wang. ***ACM Special Interest Group on Data Communication (SIGCOMM 2025)***.  **[CCF A，东北大学首篇]** 
-- RA-Sketch: A Unified Framework for Rapid and Accurate Sketch Configurations. Kejun Guo, **Fuliang Li#**, Yuting Liu, Jiaxing Shen, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2025)* .  [CCF B]
-- MEC-Sketch: Memory-Efficient Per-Flow Cardinality Measurement in High-Speed Networks. Kejun Guo, **Fuliang Li#**, Yunjie Zhang, Haorui Wan, Jiaxing Shen, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2025)*. [CCF B]
-- TuCCL: Tailored and Unified Configuration Optimizations for High-Performance Collective Communication Library. Ziming Li, Chenyang Hei, **Fuliang Li#**, Tongrui Liu, Chengxi Gao, Xiuzhu Sha, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2025)*. [CCF B]
-- Canvas: Scalable Collective Communication Scheduling for Large-Scale GPU Clusters. Chenyang Hei, Yi Zhao, **Fuliang Li#**, Chengxi Gao, Tongrui Liu, Xiuzhu Sha, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2025)*. [CCF B]
-- MAZ3: Memory-Assisted ZeRO-3 for Efficient Collective Communication. Yang Liu+, Chenyang Hei+, **Fuliang Li#**, Chengxi Gao, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2025)*. [CCF B]
+- RA-Sketch: A Unified Framework for Rapid and Accurate Sketch Configurations. Kejun Guo, **Fuliang Li#**, Yuting Liu, Jiaxing Shen, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2025)* .  [CCF B，清华大学A类]
+- MEC-Sketch: Memory-Efficient Per-Flow Cardinality Measurement in High-Speed Networks. Kejun Guo, **Fuliang Li#**, Yunjie Zhang, Haorui Wan, Jiaxing Shen, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2025)*. [CCF B，清华大学A类]
+- TuCCL: Tailored and Unified Configuration Optimizations for High-Performance Collective Communication Library. Ziming Li, Chenyang Hei, **Fuliang Li#**, Tongrui Liu, Chengxi Gao, Xiuzhu Sha, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2025)*. [CCF B，清华大学A类]
+- Canvas: Scalable Collective Communication Scheduling for Large-Scale GPU Clusters. Chenyang Hei, Yi Zhao, **Fuliang Li#**, Chengxi Gao, Tongrui Liu, Xiuzhu Sha, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2025)*. [CCF B，清华大学A类]
+- MAZ3: Memory-Assisted ZeRO-3 for Efficient Collective Communication. Yang Liu+, Chenyang Hei+, **Fuliang Li#**, Chengxi Gao, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2025)*. [CCF B，清华大学A类]
 - INT-Source: Topology-adaptive In-band Network-wide Telemetry. <b>Fuliang Li</b>, Qianchen Yuan,  Yuhua Lai, Zhenbei Guo, Elliott Wen, Tian Pan, Xingwei Wang, and Jiannong Cao. <i> IEEE/ACM Transactions on Networking (TON)</i> .  [CCF A] 
 - RTQS: Real-Time flow Fairness Queue Scheduling Policy on Router Devices. Hong Zhang, Zhenge Xu, Feixue Han, **Fuliang Li#**, Qing Li. *Computer Networks*. [CCF B]
 - SCC: Synchronization Congestion Control for Multi-tenant Learning over Geo-distributed Clouds. Chengxi Gao, **Fuliang Li**, Kejiang Ye, Yang Wang, Pengfei Wang, Xingwei Wang, Cheng-Zhong Xu. <i>  IEEE Transactions on Computers (TC). </i> [CCF A] 
 - NetGenius: Routing Configuration Recommendation Based on Graph Neural Network. Zhenbei Guo, <b>Fuliang Li#</b>, Tangzheng Xie, Xingwei Wang, and Jiannong Cao. <i> IEEE/ACM Transactions on Networking (TON)</i> .  [CCF A] 
 - INT-Partition: Hierarchical and Fault-tolerant In-band Network Telemetry. Qianchen Yuan, <b>Fuliang Li#</b>, Tian Pan, Yuhua Lai, Yetao Gu, Xingwei Wang, and Jiannong Cao. <i> IEEE/ACM Transactions on Networking (TON)</i> .  [CCF A] 
 - Intelligent Task Offloading and Resource Allocation in Knowledge Defined Edge Computing Networks. Chuangchuang Zhang, Qiang He, **Fuliang Li**, Keping Yu. <i> IEEE Transactions on Mobile Computing (TMC). </i> [CCF A] 
+- Power Optimization for Low Transmission Delay in Software Defined Data Center Networks. Yong Zhao, Jiannong Cao, Xingwei Wang, **Fuliang Li**, Qiang He, Xiaojie Liu. <i> IEEE Transactions on Mobile Computing (TMC). </i> [CCF A] 
 - REP4: Automated Testing and Repairing Programmable Data Planes. Wen Li, Chuyuan Liu, **Fuliang Li#**, Xingwei Wang. <i> IEEE/ACM International Symposium on Quality of Service (IWQoS 2025). </i>  [CCF B]
 - SmartTC: A Real-Time ML-Based Traffic Classification with SmartNIC. Lingxiang Hu+, Chenyang Hei+, **Fuliang Li#**, Chengxi Gao, Jiaxing Shen, Xingwei Wang. <i> IEEE/ACM International Symposium on Quality of Service (IWQoS 2025). </i>  [CCF B]
 - Automatically Mining the Causality between Network Configurations and Routing Behaviors. **Fuliang Li**, Tangzheng Xie, Bocheng Liang, Zhenbei Guo, Haozhi Lang, Xingwei Wang. <i> IEEE/ACM International Symposium on Quality of Service (IWQoS 2025). </i>  [CCF B]
@@ -84,7 +86,7 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 
 - Distributed Sketch Deployment for Software Switches. Kejun Guo, <b>Fuliang Li#</b>,  Jiaxing Shen,  Xingwei Wang and Jiannong Cao. <i>  IEEE Transactions on Computers (TC). </i> [CCF A] 
 - Performance Characteristics and Guidelines of Offloading Middleboxes onto BlueField-2 DPU.  <b>Fuliang Li</b>, Qin Chen, Jiaxing Shen,  Xingwei Wang, Jiannong Cao. <i>  IEEE Transactions on Computers (TC). </i> [CCF A] 
-- AutoSRv6: Configuration Synthesis for Segment Routing over IPv6. Bocheng Liang, **Fuliang Li**, Naigong Zheng, Xingwei Wang, Jiannong Cao. *IEEE Journal on Selected Areas in Communications (JSAC)*. [CCF A]
+- AutoSRv6: Configuration Synthesis for Segment Routing over IPv6. Bocheng Liang, **Fuliang Li#**, Naigong Zheng, Xingwei Wang, Jiannong Cao. *IEEE Journal on Selected Areas in Communications (JSAC)*. [CCF A]
 - Explainable Network Verification. **Fuliang Li**, Minglong Li, Yunhang Pu, Yuxin Zhang, Xingwei Wang, Jiannong Cao.  <i>IEEE/ACM Transactions on Networking (TON). </i> [CCF A].
 - MTU-Adaptive In-Band Network-Wide Telemetry. <b>Fuliang Li</b>, Qianchen Yuan, Tian Pan, Xingwei Wang, and Jiannong Cao. <i> IEEE/ACM Transactions on Networking (TON), vol. 32, no. 3, pp. 2315-2330. </i> [CCF A] [<A href="https://ieeexplore.ieee.org/document/10400437" target="_blank">pdf</A>].
 - Learning-Based Sketch for Adaptive and High-Performance Network Measurement. <b>Fuliang Li</b>, Yiming Lv, Yangsheng Yan, Chengxi Gao, Xingwei Wang, and Jiannong Cao. <i> IEEE/ACM Transactions on Networking (TON), vol. 32, no. 3, pp. 2571-2585. </i> [CCF A] [<A href="https://ieeexplore.ieee.org/abstract/document/10436630" target="_blank">pdf</A>].
@@ -92,7 +94,7 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 - Human-Intent-Driven Cellular Configuration Generation Using Program Synthesis. <b>Fuliang Li</b>, Chenyang Hei, Jiaxing Shen, Qing Li, and Xingwei Wang. <i> IEEE Journal on Selected Areas in Communications (JSAC), vol. 42, no. 3, pp. 658-668. </i> [CCF A] [<A href="https://ieeexplore.ieee.org/abstract/document/10368062" target="_blank">pdf</A>].
 - Effective Network-Wide Traffic Measurement: A Lightweight Distributed Sketch Deployment. <b>Fuliang Li</b>, Kejun Guo, Jiaxing Shen, and Xingwei Wang. <i> IEEE International Conference on Computer Communications (INFOCOM 2024). </i>  [CCF A] [<A href="https://shenjiaxing.github.io/pdf/effectiveli2023.pdf" target="_blank">pdf</A>].
 - FlowValve+: Multi-queue Packet Scheduling Framework on SoC-based SmartNICs. Shaoke Xi, **Fuliang Li#**, Lingxiang Hu, Xingwei Wang, Kui Ren. <i>  IEEE Transactions on Service Computing (TSC) </i>.  [CCF A]  [<A href="https://ieeexplore.ieee.org/document/10584149" target="_blank">pdf</A>]
-- ConfigTrans: Network Configuration Translation Based on Large Language Models and Constraint Solving. Naigong Zheng, **Fuliang Li#**, Ziming Li, Yu Yang, Yimo Hao, Chenyang Liu, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2024)*.   [CCF B]
+- ConfigTrans: Network Configuration Translation Based on Large Language Models and Constraint Solving. Naigong Zheng, **Fuliang Li#**, Ziming Li, Yu Yang, Yimo Hao, Chenyang Liu, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2024)*.   [CCF B，清华大学A类]
 - Advancing Sketch-based Network Measurement: A General, Fine-Grained, Bit-Adaptive Sliding Window Framework. Kejun Guo, <b>Fuliang Li#</b>, Jiaxing Shen, and Xingwei Wang. <i> IEEE/ACM International Symposium on Quality of Service (IWQoS 2024). </i>  [CCF B] [<A href="https://shenjiaxing.github.io/pdf/2024/advancingguo2024.pdf" target="_blank">pdf</A>].
 - Routing Optimization With Deep Reinforcement Learning in Knowledge Defined Networking. Qiang He, Yu Wang, Xingwei Wang#, Weiqiang Xu, <b>Fuliang Li#</b>, Kaiqi Yang, and Lianbo Ma. <i> IEEE Transactions on Mobile Computing (TMC), vol. 23, no. 2, pp. 1444-1455. </i> [CCF A] [<A href="https://ieeexplore.ieee.org/abstract/document/10012574" target="_blank">pdf</A>].
 - Minder: Faulty Machine Detection for Large-scale Distributed Model Training. Yangtao Deng, Xiang Shi, Zhuo Jiang, Xingjian Zhang, Lei Zhang, Zhang Zhang, Bo Li, Zuquan Song, Hang Zhu, Gaohong Liu, **Fuliang Li**, Shuguang Wang, Haibin Lin, Jianxi Ye, Minlan Yu. *USENIX Symposium on Networked Systems Design and Implementation (NSDI 2025)*.  [CCF A]

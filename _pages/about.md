@@ -20,7 +20,7 @@ redirect_from:
 Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bachelor’s degree in Computer Science and Engineering from Northeastern University in 2009 and was directly admitted to Tsinghua University’s Institute for Network Sciences and Cyberspace as a Ph.D. student, under the supervision of Professor Wu Jianping (<a href="https://www.tsinghua.edu.cn/info/1166/93896.htm" target="_blank">吴建平</a>). I earned my Ph.D. degree from Tsinghua University in 2015. Now, I work with Professor Xingwei Wang (<a href="https://neu.edu.cn/info/1012/3221.htm" target="_blank">王兴伟</a>). My main research interests include computer networks, as well as the bridging between networking and AI.
 
 # 🔥 News
-- *2025.08: &nbsp;🎉🎉 We have two papers accepted by TC [CCF A].
+- 2025.08: &nbsp;🎉🎉 We have two papers accepted by TC [CCF A].
 - *2025.07*: &nbsp;🎉🎉🎉🎉🎉🎉We have one paper accepted by **SIGCOMM 2025** [CCF A].
 - *2025.07*: &nbsp;🎉🎉 We have some papers accepted by ICNP [CCF B，清华大学A类].
 - 2025.07: &nbsp;**🎉🎉 IEEE/ACM IWQoS 2025 Best Student Paper Runner-up**
@@ -63,9 +63,9 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 
 <h3><strong>2025</strong></h3>
 
-- ResCCL: Resource-Efficient Scheduling for Collective  Communication. Tongrui Liu+, Chenyang Hei+, Fuliang Li#, Chengxi Gao, Jianmin Cao, Tianshu Wang, Ennan Zhai, Xingwei Wang. ***ACM Special Interest Group on Data Communication (SIGCOMM 2025)***.  **[CCF A，东北大学首篇]** 
-- NetKG: Synthesizing Interpretable Network Router Configurations with Knowledge Graph. Zhenbei Guo, Fuliang Li, Peng Zhang, Xingwei Wang, Jiannong Cao. <i>  IEEE Transactions on Computers (TC). </i> [CCF A] 
-- FSA-Hash: Flow-Size-Aware Sketch Hashing for Software Switches. Fuliang Li, Kejun Guo, Yiming Lv, Jiaxing Shen, Yuting Liu, Xingwei Wang, Jiannong Cao.  <i>  IEEE Transactions on Computers (TC). </i> [CCF A] 
+- ResCCL: Resource-Efficient Scheduling for Collective  Communication. Tongrui Liu+, Chenyang Hei+, **Fuliang Li#**, Chengxi Gao, Jianmin Cao, Tianshu Wang, Ennan Zhai, Xingwei Wang. ***ACM Special Interest Group on Data Communication (SIGCOMM 2025)***.  **[CCF A，东北大学首篇]** 
+- NetKG: Synthesizing Interpretable Network Router Configurations with Knowledge Graph. Zhenbei Guo, **Fuliang Li#**, Peng Zhang, Xingwei Wang, Jiannong Cao. <i>  IEEE Transactions on Computers (TC). </i> [CCF A] 
+- FSA-Hash: Flow-Size-Aware Sketch Hashing for Software Switches. **Fuliang Li**, Kejun Guo, Yiming Lv, Jiaxing Shen, Yuting Liu, Xingwei Wang, Jiannong Cao.  <i>  IEEE Transactions on Computers (TC). </i> [CCF A] 
 - RA-Sketch: A Unified Framework for Rapid and Accurate Sketch Configurations. Kejun Guo, **Fuliang Li#**, Yuting Liu, Jiaxing Shen, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2025)* .  [CCF B，清华大学A类]
 - MEC-Sketch: Memory-Efficient Per-Flow Cardinality Measurement in High-Speed Networks. Kejun Guo, **Fuliang Li#**, Yunjie Zhang, Haorui Wan, Jiaxing Shen, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2025)*. [CCF B，清华大学A类]
 - TuCCL: Tailored and Unified Configuration Optimizations for High-Performance Collective Communication Library. Ziming Li, Chenyang Hei, **Fuliang Li#**, Tongrui Liu, Chengxi Gao, Xiuzhu Sha, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2025)*. [CCF B，清华大学A类]

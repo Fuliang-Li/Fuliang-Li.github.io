@@ -49,11 +49,7 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 
 # 💡 Honors and Awards
 
-- **2024年 入选国家级青年人才计划**
-- 2024年 入选中央部委高层次人次计划
-- 2024年 入选"兴辽英才计划"青年拔尖人才
 - **2025年 获华为公司“难题揭榜”火花奖 （学院首次）**
-- 2025年 获华为公司优秀技术合作项目
 - IEEE ICNP 2025 Best Paper Award
 - IEEE/ACM IWQoS 2025 Best Student Paper Runner-up
 

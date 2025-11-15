@@ -20,7 +20,8 @@ redirect_from:
 Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bachelor’s degree in Computer Science and Engineering from Northeastern University in 2009 and was directly admitted to Tsinghua University’s Institute for Network Sciences and Cyberspace as a Ph.D. student, under the supervision of Professor Wu Jianping (<a href="https://www.tsinghua.edu.cn/info/1166/93896.htm" target="_blank">吴建平</a>). I earned my Ph.D. degree from Tsinghua University in 2015. Now, I work with Professor Xingwei Wang (<a href="https://neu.edu.cn/info/1012/3221.htm" target="_blank">王兴伟</a>). My main research interests include computer networks, as well as the bridging between networking and AI.
 
 # 🔥 News
-- 2025.09: &nbsp;**🎉🎉🎉🎉🎉🎉 IEEE ICNP 2025 Best Paper Award**
+- 2025.11: &nbsp;🎉🎉 We have one paper accepted by  AAAI [CCF A].
+- 2025.09: &nbsp;**🎉🎉🎉🎉🎉🎉 IEEE ICNP 2025 Best Paper Award**.
 - 2025.08: &nbsp;🎉🎉 We have two papers accepted by TC [CCF A].
 - *2025.07*: &nbsp;🎉🎉🎉🎉🎉🎉We have one paper accepted by **SIGCOMM 2025** [CCF A].
 - *2025.07*: &nbsp;🎉🎉 We have some papers accepted by ICNP [CCF B，清华大学A类].
@@ -33,14 +34,6 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 - *2025.04*: &nbsp;🎉🎉 We have some papers accepted by IWQoS 2025 [CCF B].
 - *2025.03*: 🎉🎉 We have another paper published by TMC [CCF A].
 - *2025.02*: 🎉🎉 We have one paper published by TMC [CCF A].
-- *2024.12*: &nbsp;🎉🎉 We have one paper accepted by TC [CCF A].
-- *2024.10*: &nbsp;🎉🎉 We have one paper accepted by JSAC [CCF A].
-- *2024.10*: &nbsp;🎉🎉 We have one paper accepted by TC [CCF A]. 
-- *2024.09*: &nbsp;🎉🎉 We have one paper accepted by TON [CCF A]. 
-- *2024.07*: &nbsp;🎉🎉 We have one paper accepted by ICNP 2024 [CCF B，清华大学A类]. 
-- *2024.07*: &nbsp;🎉🎉 We have one paper jointly with ByteDance accepted by NSDI 2025 [CCF A]. 
-- *2024.07*: &nbsp;🎉🎉 We have one paper accepted by TSC [CCF A]. 
-- *2024.06*: &nbsp;🎉🎉 We have two papers published by TON [CCF A].
 
 # 📖 Educations
 - *Jan, 2015 - Now*, Dept. of Computer Science and Technology, Northeastern University, Shenyang, China. 
@@ -64,7 +57,8 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 - ResCCL: Resource-Efficient Scheduling for Collective  Communication. Tongrui Liu+, Chenyang Hei+, **Fuliang Li#**, Chengxi Gao, Jianmin Cao, Tianshu Wang, Ennan Zhai, Xingwei Wang. ***ACM Special Interest Group on Data Communication (SIGCOMM 2025)***.  **[CCF A，东北大学首篇]** 
 - NetKG: Synthesizing Interpretable Network Router Configurations with Knowledge Graph. Zhenbei Guo, **Fuliang Li#**, Peng Zhang, Xingwei Wang, Jiannong Cao. <i>  IEEE Transactions on Computers (TC). </i> [CCF A] 
 - FSA-Hash: Flow-Size-Aware Sketch Hashing for Software Switches. **Fuliang Li**, Kejun Guo, Yiming Lv, Jiaxing Shen, Yuting Liu, Xingwei Wang, Jiannong Cao.  <i>  IEEE Transactions on Computers (TC). </i> [CCF A] 
-- RA-Sketch: A Unified Framework for Rapid and Accurate Sketch Configurations. Kejun Guo, **Fuliang Li#**, Yuting Liu, Jiaxing Shen, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2025)* .  [CCF B，清华大学A类]
+- RA-Sketch: A Unified Framework for Rapid and Accurate Sketch Configurations. Kejun Guo, **Fuliang Li#**, Yuting Liu, Jiaxing Shen, Xingwei Wang. ***IEEE International Conference on Network Protocols (ICNP 2025)* .  [CCF B，清华大学A类，唯一最佳论文]**
+- ELSPR: Evaluator LLM Training Data Self-Purification on Non-Transitive Preferences via Tournament Graph Reconstruction. Yan Yu, Yilun Liu, Minggui He, Shimin Tao, Weibin Meng, Xinhua Yang, Li Zhang, Hongxia Ma, Dengye Li, Daimeng Wei, Boxing Chen, **Fuliang Li#**. *AAAI Conference on Artificial Intelligence (AAAI-26)*. [CCF A] 
 - MEC-Sketch: Memory-Efficient Per-Flow Cardinality Measurement in High-Speed Networks. Kejun Guo, **Fuliang Li#**, Yunjie Zhang, Haorui Wan, Jiaxing Shen, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2025)*. [CCF B，清华大学A类]
 - TuCCL: Tailored and Unified Configuration Optimizations for High-Performance Collective Communication Library. Ziming Li, Chenyang Hei, **Fuliang Li#**, Tongrui Liu, Chengxi Gao, Xiuzhu Sha, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2025)*. [CCF B，清华大学A类]
 - Canvas: Scalable Collective Communication Scheduling for Large-Scale GPU Clusters. Chenyang Hei, Yi Zhao, **Fuliang Li#**, Chengxi Gao, Tongrui Liu, Xiuzhu Sha, Xingwei Wang. *IEEE International Conference on Network Protocols (ICNP 2025)*. [CCF B，清华大学A类]

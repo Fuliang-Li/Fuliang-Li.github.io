@@ -20,11 +20,12 @@ redirect_from:
 Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bachelor’s degree in Computer Science and Engineering from Northeastern University in 2009 and was directly admitted to Tsinghua University’s Institute for Network Sciences and Cyberspace as a Ph.D. student, under the supervision of Professor Wu Jianping (<a href="https://www.tsinghua.edu.cn/info/1166/93896.htm" target="_blank">吴建平</a>). I earned my Ph.D. degree from Tsinghua University in 2015. Now, I work with Professor Xingwei Wang (<a href="https://neu.edu.cn/info/1012/3221.htm" target="_blank">王兴伟</a>). My main research interests include computer networks, as well as the bridging between networking and AI.
 
 # 🔥 News
+- 2025.12: &nbsp;🎉🎉🎉🎉🎉🎉We have one paper accepted by **NSDI 2026** [CCF A、东北大学首篇].
 - 2025.12: &nbsp;🎉🎉 We have two papers accepted by INFOCOM 2026 [CCF A].
 - 2025.11: &nbsp;🎉🎉 We have one paper accepted by  AAAI [CCF A].
 - 2025.09: &nbsp;**🎉🎉🎉🎉🎉🎉 IEEE ICNP 2025 Best Paper Award**.
 - 2025.08: &nbsp;🎉🎉 We have two papers accepted by TC [CCF A].
-- *2025.07*: &nbsp;🎉🎉🎉🎉🎉🎉We have one paper accepted by **SIGCOMM 2025** [CCF A].
+- *2025.07*: &nbsp;🎉🎉🎉🎉🎉🎉We have one paper accepted by **SIGCOMM 2025** [CCF A、东北大学首篇].
 - *2025.07*: &nbsp;🎉🎉 We have some papers accepted by ICNP [CCF B，清华大学A类].
 - 2025.07: &nbsp;**🎉🎉 IEEE/ACM IWQoS 2025 Best Student Paper Runner-up**
 - *2025.07*: &nbsp;🎉🎉 We have one paper accepted by TON [CCF A].
@@ -55,6 +56,7 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 
 <h3><strong>2025</strong></h3>
 
+- HeteCCL: Synthesizing Near-Optimal Collective Communication Schedules for Heterogeneous GPU Clusters. Chenyang Hei, **Fuliang Li#**, Jiayi Li, Jiamin Cao, Chengxi Gao, Xiuzhu Sha, Tongrui Liu, Dengke Zhang, Ennan Zhai, Xingwei Wang. ***The USENIX Symposium on Network Systems Design and Implementation  (NSDI 2026).*** **[CCF A，东北大学首篇]** 
 - ResCCL: Resource-Efficient Scheduling for Collective  Communication. Tongrui Liu+, Chenyang Hei+, **Fuliang Li#**, Chengxi Gao, Jianmin Cao, Tianshu Wang, Ennan Zhai, Xingwei Wang. ***ACM Special Interest Group on Data Communication (SIGCOMM 2025)***.  **[CCF A，东北大学首篇]** 
 - ConnSched: Selective Connection Offloading Framework for Accelerating Stateful NFs with DPU. Songlin Chen, **Fuliang Li#**, Qin Chen, Chengxi Gao, Man Hou, Jiaxing Shen. <i> IEEE International Conference on Computer Communications (INFOCOM 2026). </i> [CCF A]
 - One-Sketch: A Unified Framework for Per-Flow Cardinality Measurement with Flexible Bias Control. Kejun Guo, **Fuliang Li#**, Jiaxing Shen, Haorui Wan, Songlin Chen, Man Hou. <i> IEEE International Conference on Computer Communications (INFOCOM 2026). </i> [CCF A]

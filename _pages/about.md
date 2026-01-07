@@ -17,23 +17,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bachelor’s degree in Computer Science and Engineering from Northeastern University in 2009 and was directly admitted to Tsinghua University’s Institute for Network Sciences and Cyberspace as a Ph.D. student, under the supervision of Professor Wu Jianping (<a href="https://www.tsinghua.edu.cn/info/1166/93896.htm" target="_blank">吴建平</a>). I earned my Ph.D. degree from Tsinghua University in 2015. Now, I work with Professor Xingwei Wang (<a href="https://neu.edu.cn/info/1012/3221.htm" target="_blank">王兴伟</a>). My main research interests include computer networks, as well as the bridging between networking and AI.
+Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bachelor’s degree in Computer Science and Engineering from Northeastern University in 2009 and was directly admitted to Tsinghua University’s Institute for Network Sciences and Cyberspace as a Ph.D. student, under the supervision of Professor Wu Jianping (<a href="https://www.tsinghua.edu.cn/info/1166/93896.htm" target="_blank">吴建平</a>). I earned my Ph.D. degree from Tsinghua University in 2015. I worked as a Postdoctoral Fellow at the Hong Kong Polytechnic University in 2016, under the supervision of Professor Cao Jiannong (<a href="https://www.tsinghua.edu.cn/info/1166/93896.htm" target="_blank">曹建农</a>). Now, I work with Professor Xingwei Wang (<a href="https://neu.edu.cn/info/1012/3221.htm" target="_blank">王兴伟</a>). My main research interests include computer networks, as well as the bridging between networking and AI.
 
 # 🔥 News
-- 2025.12: &nbsp;🎉🎉🎉🎉🎉🎉We have one paper accepted by **NSDI 2026** [CCF A、东北大学首篇].
+- 2025.12: &nbsp;🎉🎉🎉🎉🎉🎉We have one paper accepted by **NSDI 2026** [CCF A].
 - 2025.12: &nbsp;🎉🎉 We have two papers accepted by INFOCOM 2026 [CCF A].
 - 2025.11: &nbsp;🎉🎉 We have one paper accepted by  AAAI [CCF A].
 - 2025.09: &nbsp;**🎉🎉🎉🎉🎉🎉 IEEE ICNP 2025 Best Paper Award**.
 - 2025.08: &nbsp;🎉🎉 We have two papers accepted by TC [CCF A].
-- *2025.07*: &nbsp;🎉🎉🎉🎉🎉🎉We have one paper accepted by **SIGCOMM 2025** [CCF A、东北大学首篇].
-- *2025.07*: &nbsp;🎉🎉 We have some papers accepted by ICNP [CCF B，清华大学A类].
+- *2025.07*: &nbsp;🎉🎉🎉🎉🎉🎉We have one paper accepted by **SIGCOMM 2025** [CCF A].
+- *2025.07*: &nbsp;🎉🎉 We have five papers accepted by ICNP [CCF B].
 - 2025.07: &nbsp;**🎉🎉 IEEE/ACM IWQoS 2025 Best Student Paper Runner-up**
 - *2025.07*: &nbsp;🎉🎉 We have one paper accepted by TON [CCF A].
 - *2025.06*: &nbsp;🎉🎉 We have one paper accepted by COMNET [CCF B].
 - *2025.06*: &nbsp;🎉🎉 We have one paper accepted by TC [CCF A]
 - *2025.05*: &nbsp;🎉🎉 We have  another paper accepted by TON [CCF A].
 - *2025.05*: &nbsp;🎉🎉 We have one paper accepted by TON [CCF A].
-- *2025.04*: &nbsp;🎉🎉 We have some papers accepted by IWQoS 2025 [CCF B].
+- *2025.04*: &nbsp;🎉🎉 We have six papers accepted by IWQoS 2025 [CCF B].
 - *2025.03*: 🎉🎉 We have another paper published by TMC [CCF A].
 - *2025.02*: 🎉🎉 We have one paper published by TMC [CCF A].
 
@@ -44,7 +44,10 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 
 # 💡 Honors and Awards
 
-- **2025年 获华为公司“难题揭榜”火花奖 （学院首次）**
+- 2025年 获辽宁省杰出科技青年奖
+- 2025年 获华为公司“难题揭榜”火花奖 
+- 2024年 入选国家级青年人才计划
+- 2024年 入选辽宁省青年拔尖人才
 - IEEE ICNP 2025 Best Paper Award
 - IEEE/ACM IWQoS 2025 Best Student Paper Runner-up
 
@@ -79,7 +82,7 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 - SmartTC: A Real-Time ML-Based Traffic Classification with SmartNIC. Lingxiang Hu+, Chenyang Hei+, **Fuliang Li#**, Chengxi Gao, Jiaxing Shen, Xingwei Wang. <i> IEEE/ACM International Symposium on Quality of Service (IWQoS 2025). </i>  [CCF B]
 - Automatically Mining the Causality between Network Configurations and Routing Behaviors. **Fuliang Li**, Tangzheng Xie, Bocheng Liang, Zhenbei Guo, Haozhi Lang, Xingwei Wang. <i> IEEE/ACM International Symposium on Quality of Service (IWQoS 2025). </i>  [CCF B]
 - NetMAS: Efficient Network Configuration Translation with Multi-Agent System. Chenyang Liu, **Fuliang Li#**, Naigong Zheng, Xingwei Wang. <i> IEEE/ACM International Symposium on Quality of Service (IWQoS 2025). </i>  [CCF B]
-- LA-Sketch: An Adaptive Level-Aware Sketch for Efficient Network Traffic Measurement. Yuting Liu, Kejun Guo, **Fuliang Li#**, Jiaxing Shen, Xingwei Wang. <i> IEEE/ACM International Symposium on Quality of Service (IWQoS 2025). </i>  [CCF B, **Best Student Paper Runner-up**] 
+- LA-Sketch: An Adaptive Level-Aware Sketch for Efficient Network Traffic Measurement. Yuting Liu, Kejun Guo, **Fuliang Li#**, Jiaxing Shen, Xingwei Wang. <i> IEEE/ACM International Symposium on Quality of Service (IWQoS 2025). </i>  [CCF B, **最佳学生论文提名奖**] 
 - ConfigChecker: Automated Network Configuration Validation with Large Language Model and Knowledge Graph. **Fuliang Li**, Jie Zhong, Bocheng Liang, Zhenbei Guo, Xingwei Wang. <i> IEEE/ACM International Symposium on Quality of Service (IWQoS 2025). </i>  [CCF B]
 
 <h3><strong>2024</strong></h3>
@@ -134,17 +137,20 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 - Reliable Fog-based Crowdsourcing: A Temporal-Spatial Task Allocation Approach. Yao Yu, <b>Fuliang Li#</b>, Shumei Liu, Jinli Huang, and Lei Guo. <i> IEEE Internet of Things Journal, vol. 7, no. 5, pp. 3968-3976. </i> [<A href="https://ieeexplore.ieee.org/abstract/document/8918307" target="_blank">pdf</A>].
 
 # 💡 Projects
-- 国家自然科学基金联合基金、面向算力网络的智能服务质量控制架构与关键技术研究、 2023.01-2026.12、单位课题负责人
-- 国家自然科学基金面上项目、集合通信网络优化技术研究、2026.01-2029.12、项目负责人
+- 国家科技重大专项课题、2025.12-2028.11、课题负责人
+- 国家自然科学基金面上项目、2026.01-2029.12、项目负责人
 - 国家自然科学基金面上项目、基于意图的网络配置综合系统关键技术研究、2021.01-2024.12、项目负责人
+- 国家自然科学基金联合基金重点项目、面向算力网络的智能服务质量控制架构与关键技术研究、 2023.01-2026.12、单位课题负责人
+- 国家自然科学基金青年基金项目、移动社交网络中基于社交关系的新型路由机制研究、2017.01-2019.12、项目负责人
 - 国家重点研发计划子课题、面向智能路由的高精度网络状态感知、2020.01-2023.12、子课题负责人
 - 国家重点研发计划子课题、互联网基础行为大规模精确测量方法学、2019.07-2022.06、子课题负责人
-- 国家自然科学基金青年基金项目、移动社交网络中基于社交关系的新型路由机制研究、2017.01-2019.12、项目负责人
 - 华为公司合作项目、拓扑亲和集合通信自动生成技术合作项目、2025.06-2026.06、项目负责人
+- 华为公司合作项目、AI大语言模型配置翻译合作项目、2024.10-2025.10、项目负责人
 - 华为公司合作项目、HON Connect可靠远场P2P多路聚合技术研究合作项目、2021.10-2024.03、项目负责人
 - 华为公司合作项目、网络验证智库（配置综合与DSL）项目、2023.07-2024.07、项目负责人
 - 华为公司合作项目、基于网络意图的配置自动生成技术合作项目、2020.08-2021.08、项目负责人
 - 华为公司合作项目、路由意图&配置综合技术合作项目、2018.12-2019.12、项目负责人
 - 字节跳动合作项目、基于交换机INT技术的高性能监控和智能故障定位与恢复系统的研究与应用、2023.03-2024.08、项目负责人
+- 蚂蚁集团合作项目、高性能异构集合通信优化与协同调度技术、2025.03-2026.03、项目负责人
 - 阿里巴巴合作项目、基于模糊测试的可编程数据平面错误检测、2023.04-2024.04、项目负责人
 - 中国电信合作项目、增强智能调度算法、2021.10-2022.10、项目负责人

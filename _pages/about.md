@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bachelor’s degree in Computer Science and Engineering from Northeastern University in 2009 and was directly admitted to Tsinghua University’s Institute for Network Sciences and Cyberspace as a Ph.D. student, under the supervision of Professor Wu Jianping (<a href="https://www.tsinghua.edu.cn/info/1166/93896.htm" target="_blank">吴建平</a>). I earned my Ph.D. degree from Tsinghua University in 2015. I worked as a Postdoctoral Fellow at the Hong Kong Polytechnic University in 2016, under the supervision of Professor Cao Jiannong (<a href="https://www.tsinghua.edu.cn/info/1166/93896.htm" target="_blank">曹建农</a>). Now, I work with Professor Xingwei Wang (<a href="https://neu.edu.cn/info/1012/3221.htm" target="_blank">王兴伟</a>). My main research interests include computer networks, as well as the bridging between networking and AI.
+Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bachelor’s degree in Computer Science and Engineering from Northeastern University in 2009 and was directly admitted to Tsinghua University’s Institute for Network Sciences and Cyberspace as a Ph.D. student, under the supervision of Professor Wu Jianping (<a href="https://www.tsinghua.edu.cn/info/1166/93896.htm" target="_blank">吴建平</a>). I earned my Ph.D. degree from Tsinghua University in 2015. I worked as a Postdoctoral Fellow at the Hong Kong Polytechnic University in 2016, under the supervision of Professor Cao Jiannong (<a href="https://www.polyu.edu.hk/ppoffice/senior-management-team/vpedu/?sc_lang=sc">曹建农</a>). Now, I work with Professor Xingwei Wang (<a href="https://neu.edu.cn/info/1012/3221.htm" target="_blank">王兴伟</a>). My main research interests include computer networks, as well as the bridging between networking and AI.
 
 # 🔥 News
 - 2025.12: &nbsp;🎉🎉🎉🎉🎉🎉We have one paper accepted by **NSDI 2026** [CCF A].
@@ -137,7 +137,6 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 - Reliable Fog-based Crowdsourcing: A Temporal-Spatial Task Allocation Approach. Yao Yu, <b>Fuliang Li#</b>, Shumei Liu, Jinli Huang, and Lei Guo. <i> IEEE Internet of Things Journal, vol. 7, no. 5, pp. 3968-3976. </i> [<A href="https://ieeexplore.ieee.org/abstract/document/8918307" target="_blank">pdf</A>].
 
 # 💡 Projects
-- 国家科技重大专项课题、2025.12-2028.11、课题负责人
 - 国家自然科学基金面上项目、2026.01-2029.12、项目负责人
 - 国家自然科学基金面上项目、基于意图的网络配置综合系统关键技术研究、2021.01-2024.12、项目负责人
 - 国家自然科学基金联合基金重点项目、面向算力网络的智能服务质量控制架构与关键技术研究、 2023.01-2026.12、单位课题负责人

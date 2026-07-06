@@ -44,6 +44,7 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 
 # 💡 Honors and Awards
 
+- 2026年 获华为公司“难题揭榜”火花奖 
 - 2025年 获辽宁省杰出科技青年奖
 - 2025年 获华为公司“难题揭榜”火花奖 
 - 2024年 入选国家级青年人才计划
@@ -62,6 +63,16 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 - HeteCCL: Synthesizing Near-Optimal Collective Communication Schedules for Heterogeneous GPU Clusters. Chenyang Hei, **Fuliang Li#**, Jiayi Li, Jiamin Cao, Chengxi Gao, Xiuzhu Sha, Tongrui Liu, Dengke Zhang, Ennan Zhai, Xingwei Wang. ***The USENIX Symposium on Network Systems Design and Implementation  (NSDI 2026).*** **[CCF A，东北大学首篇]** 
 - ConnSched: Selective Connection Offloading Framework for Accelerating Stateful NFs with DPU. Songlin Chen, **Fuliang Li#**, Qin Chen, Chengxi Gao, Man Hou, Jiaxing Shen. <i> IEEE International Conference on Computer Communications (INFOCOM 2026). </i> [CCF A]
 - One-Sketch: A Unified Framework for Per-Flow Cardinality Measurement with Flexible Bias Control. Kejun Guo, **Fuliang Li#**, Jiaxing Shen, Haorui Wan, Songlin Chen, Man Hou. <i> IEEE International Conference on Computer Communications (INFOCOM 2026). </i> [CCF A]
+- Adaptive Level-Aware Sketch for Efficient Traffic Measurement in Software Switches. **Fuliang Li**, Kejun Guo, Yuting Liu, Jiaxing Shen, Xingwei Wang, Jiannong Cao. *IEEE Transactions on Computers*. [CCF A] 
+- A Unified Framework for High-Accuracy and Memory-Efficient Per-Flow Cardinality Measurement. Kejun Guo, **Fuliang Li**, Yunjie Zhang, Haorui Wan, Jiaxing Shen, Xingwei Wang, Jiannong Cao. *IEEE Transactions on Networking*. [CCF A] 
+- A Unified Configuration Framework for Heterogeneous Sketches. **Fuliang Li**,Kejun Guo,Yuting Liu,Jiaxing Shen,Xingwei Wang,Jiannong Cao. *IEEE Transactions on Networking*. [CCF A] 
+- AI-Enabled Intelligent Defense for Link Flooding Attacks in Software Defined Networks. Qiang He, Quanwei Li, Chuangchuang Zhang, **Fuliang Li**, Xingwei Wang, Chi Xu, Ammar Hawbani, Keping Yu. IEEE *Transactions on Computers*. [CCF A] 
+- PreConfig: A Unified Language Model Framework for Network Configuration Automation. **Fuliang Li**, Bocheng Liang, Haozhi Lang, Jiajie Zhang, Jiaxing Shen, Chengxi Gao, Xingwei Wang. *IEEE Transactions on Cognitive Communications and Networking*. [CCF B] 
+- Robust SFC Placement in Next Generation Multi-Domain IoT Networks Under Resource Demand Uncertainty. Chuangchuang Zhang, Qiang He, **Fuliang Li**, Xingwei Wang, Wei Qian, Junxin Chen, Kaifa Zheng, Ammar Hawbani, Keping Yu. *IEEE Transactions on Mobile Computing*. [CCF A] 
+- ChatGosen: A Network Configuration Synthesis Approach with Semantic-Computation Decoupling. Chunyuan Liu+, Zhaokun Tan+, **Fuliang Li#**, Bocheng Liang, Jiaxing Shen, Lei Yang, Xingwei Wang. <i> IEEE/ACM International Symposium on Quality of Service (IWQoS 2026). </i>  [CCF B]
+- UPServe: Backend Agnostic Proxy for Black-box Heterogeneous LLM Scheduling. Haorui Wan, Chenyang Hei, **Fuliang Li#**, Chengxi Gao, Yuhan Jia, Tongrui Liu, Xingwei Wang. <i> IEEE/ACM International Symposium on Quality of Service (IWQoS 2026). </i>  [CCF B]
+- Duet: Towards Efficient and Accurate Sketch-Based Measurement on DPUs. Yang Wu+, Songlin Chen+, **Fuliang Li#**, Man Hou, Jiaxing Sheng, Xingwei Wang. <i> IEEE/ACM International Symposium on Quality of Service (IWQoS 2026). </i>  [CCF B]
+- DistSRE: Synthesizing Runtime Executions with Automated Co-Optimization for Distributed LLM Training. Xiuzhu Sha+, Chenyang Hei+, **Fuliang Li#**, Chengxi Gao, Rongfei Zeng, Xingwei Wang. <i> IEEE/ACM International Symposium on Quality of Service (IWQoS 2026). </i>  [CCF B]
 - ELSPR: Evaluator LLM Training Data Self-Purification on Non-Transitive Preferences via Tournament Graph Reconstruction. Yan Yu, Yilun Liu, Minggui He, Shimin Tao, Weibin Meng, Xinhua Yang, Li Zhang, Hongxia Ma, Dengye Li, Daimeng Wei, Boxing Chen, **Fuliang Li#**. *AAAI Conference on Artificial Intelligence (AAAI-26)*. [CCF A] 
 
 <h3><strong>2025</strong></h3> 

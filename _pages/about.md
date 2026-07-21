@@ -53,9 +53,9 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 - HeteCCL: Synthesizing Near-Optimal Collective Communication Schedules for Heterogeneous GPU Clusters. Chenyang Hei, **Fuliang Li#**, Jiayi Li, Jiamin Cao, Chengxi Gao, Xiuzhu Sha, Tongrui Liu, Dengke Zhang, Ennan Zhai, Xingwei Wang. ***The USENIX Symposium on Network Systems Design and Implementation  (NSDI 2026).*** **[CCF A，东北大学首篇]** 
 - ConnSched: Selective Connection Offloading Framework for Accelerating Stateful NFs with DPU. Songlin Chen, **Fuliang Li#**, Qin Chen, Chengxi Gao, Man Hou, Jiaxing Shen. <i> IEEE International Conference on Computer Communications (INFOCOM 2026). </i> [CCF A]
 - One-Sketch: A Unified Framework for Per-Flow Cardinality Measurement with Flexible Bias Control. Kejun Guo, **Fuliang Li#**, Jiaxing Shen, Haorui Wan, Songlin Chen, Man Hou. <i> IEEE International Conference on Computer Communications (INFOCOM 2026). </i> [CCF A]
-- ConfigTransLE: Large Language Models Enhanced Network Configuration Translation. Naigong Zheng, **Fuliang Li**, Bocheng Liang, Yu Yang, Chenyang Liu,  Chengxi Gao, Xingwei Wang, Jiannong Cao.  *IEEE Transactions on Networking*. [CCF A] 
-- RTB+: Efficiently Mining Configuration-Routing Causality for Heterogeneous Routers. Bocheng Liang,  **Fuliang Li**, Tangzheng Xie, Zhenbei Guo, Haozhi Lang, Qiang He, Chengxi Gao, Xingwei Wang, Jiannong Cao. *IEEE Transactions on Computers*. [CCF A] 
-- Adaptive Level-Aware Sketch for Efficient Traffic Measurement in Software Switches. **Fuliang Li**, Kejun Guo, Yuting Liu, Jiaxing Shen, Xingwei Wang, Jiannong Cao. *IEEE Transactions on Computers*. [CCF A] 
+- ConfigTransLE: Large Language Models Enhanced Network Configuration Translation. Naigong Zheng, **Fuliang Li#**, Bocheng Liang, Yu Yang, Chenyang Liu,  Chengxi Gao, Xingwei Wang, Jiannong Cao.  *IEEE Transactions on Networking*. [CCF A] 
+- RTB+: Efficiently Mining Configuration-Routing Causality for Heterogeneous Routers. Bocheng Liang,  **Fuliang Li#**, Tangzheng Xie, Zhenbei Guo, Haozhi Lang, Qiang He, Chengxi Gao, Xingwei Wang, Jiannong Cao. *IEEE Transactions on Computers*. [CCF A] 
+- Adaptive Level-Aware Sketch for Efficient Traffic Measurement in Software Switches. **Fuliang Li#**, Kejun Guo, Yuting Liu, Jiaxing Shen, Xingwei Wang, Jiannong Cao. *IEEE Transactions on Computers*. [CCF A] 
 - A Unified Framework for High-Accuracy and Memory-Efficient Per-Flow Cardinality Measurement. Kejun Guo, **Fuliang Li**#, Yunjie Zhang, Haorui Wan, Jiaxing Shen, Xingwei Wang, Jiannong Cao. *IEEE Transactions on Networking*. [CCF A] 
 - A Unified Configuration Framework for Heterogeneous Sketches. **Fuliang Li**, Kejun Guo, Yuting Liu, Jiaxing Shen, Xingwei Wang, Jiannong Cao. *IEEE Transactions on Networking*. [CCF A] 
 - AI-Enabled Intelligent Defense for Link Flooding Attacks in Software Defined Networks. Qiang He, Quanwei Li, Chuangchuang Zhang, **Fuliang Li**, Xingwei Wang, Chi Xu, Ammar Hawbani, Keping Yu. IEEE *Transactions on Computers*. [CCF A] 
@@ -158,4 +158,3 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 - 字节跳动合作项目、基于交换机INT技术的高性能监控和智能故障定位与恢复系统的研究与应用、2023.03-2024.08、项目负责人
 - 蚂蚁集团合作项目、高性能异构集合通信优化与协同调度技术、2025.03-2026.03、项目负责人
 - 阿里巴巴合作项目、基于模糊测试的可编程数据平面错误检测、2023.04-2024.04、项目负责人
-- 中国电信合作项目、增强智能调度算法、2021.10-2022.10、项目负责人

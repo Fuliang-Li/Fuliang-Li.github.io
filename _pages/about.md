@@ -22,20 +22,10 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 # 🔥 News
 - 2025.12: &nbsp;🎉🎉🎉🎉🎉🎉We have one paper accepted by **NSDI 2026** [CCF A].
 - 2025.12: &nbsp;🎉🎉 We have two papers accepted by INFOCOM 2026 [CCF A].
-- 2025.11: &nbsp;🎉🎉 We have one paper accepted by  AAAI [CCF A].
 - 2025.09: &nbsp;**🎉🎉🎉🎉🎉🎉 IEEE ICNP 2025 Best Paper Award**.
-- 2025.08: &nbsp;🎉🎉 We have two papers accepted by TC [CCF A].
 - *2025.07*: &nbsp;🎉🎉🎉🎉🎉🎉We have one paper accepted by **SIGCOMM 2025** [CCF A].
 - *2025.07*: &nbsp;🎉🎉 We have some papers accepted by ICNP [CCF B].
 - 2025.07: &nbsp;**🎉🎉 IEEE/ACM IWQoS 2025 Best Student Paper Runner-up**
-- *2025.07*: &nbsp;🎉🎉 We have one paper accepted by TON [CCF A].
-- *2025.06*: &nbsp;🎉🎉 We have one paper accepted by COMNET [CCF B].
-- *2025.06*: &nbsp;🎉🎉 We have one paper accepted by TC [CCF A]
-- *2025.05*: &nbsp;🎉🎉 We have  another paper accepted by TON [CCF A].
-- *2025.05*: &nbsp;🎉🎉 We have one paper accepted by TON [CCF A].
-- *2025.04*: &nbsp;🎉🎉 We have some papers accepted by IWQoS 2025 [CCF B].
-- *2025.03*: 🎉🎉 We have another paper published by TMC [CCF A].
-- *2025.02*: 🎉🎉 We have one paper published by TMC [CCF A].
 
 # 📖 Educations
 - *Jan, 2015 - Now*, Dept. of Computer Science and Technology, Northeastern University, Shenyang, China. 
@@ -63,6 +53,8 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 - HeteCCL: Synthesizing Near-Optimal Collective Communication Schedules for Heterogeneous GPU Clusters. Chenyang Hei, **Fuliang Li#**, Jiayi Li, Jiamin Cao, Chengxi Gao, Xiuzhu Sha, Tongrui Liu, Dengke Zhang, Ennan Zhai, Xingwei Wang. ***The USENIX Symposium on Network Systems Design and Implementation  (NSDI 2026).*** **[CCF A，东北大学首篇]** 
 - ConnSched: Selective Connection Offloading Framework for Accelerating Stateful NFs with DPU. Songlin Chen, **Fuliang Li#**, Qin Chen, Chengxi Gao, Man Hou, Jiaxing Shen. <i> IEEE International Conference on Computer Communications (INFOCOM 2026). </i> [CCF A]
 - One-Sketch: A Unified Framework for Per-Flow Cardinality Measurement with Flexible Bias Control. Kejun Guo, **Fuliang Li#**, Jiaxing Shen, Haorui Wan, Songlin Chen, Man Hou. <i> IEEE International Conference on Computer Communications (INFOCOM 2026). </i> [CCF A]
+- ConfigTransLE: Large Language Models Enhanced Network Configuration Translation. Naigong Zheng, **Fuliang Li**, Bocheng Liang, Yu Yang, Chenyang Liu,  Chengxi Gao, Xingwei Wang, Jiannong Cao.  *IEEE Transactions on Networking*. [CCF A] 
+- RTB+: Efficiently Mining Configuration-Routing Causality for Heterogeneous Routers. Bocheng Liang,  **Fuliang Li**, Tangzheng Xie, Zhenbei Guo, Haozhi Lang, Qiang He, Chengxi Gao, Xingwei Wang, Jiannong Cao. *IEEE Transactions on Computers*. [CCF A] 
 - Adaptive Level-Aware Sketch for Efficient Traffic Measurement in Software Switches. **Fuliang Li**, Kejun Guo, Yuting Liu, Jiaxing Shen, Xingwei Wang, Jiannong Cao. *IEEE Transactions on Computers*. [CCF A] 
 - A Unified Framework for High-Accuracy and Memory-Efficient Per-Flow Cardinality Measurement. Kejun Guo, **Fuliang Li**#, Yunjie Zhang, Haorui Wan, Jiaxing Shen, Xingwei Wang, Jiannong Cao. *IEEE Transactions on Networking*. [CCF A] 
 - A Unified Configuration Framework for Heterogeneous Sketches. **Fuliang Li**, Kejun Guo, Yuting Liu, Jiaxing Shen, Xingwei Wang, Jiannong Cao. *IEEE Transactions on Networking*. [CCF A] 

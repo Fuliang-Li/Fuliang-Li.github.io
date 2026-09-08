@@ -20,6 +20,8 @@ redirect_from:
 Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bachelor’s degree in Computer Science and Engineering from Northeastern University in 2009 and was directly admitted to Tsinghua University’s Institute for Network Sciences and Cyberspace as a Ph.D. student, under the supervision of Professor Wu Jianping (<a href="https://www.tsinghua.edu.cn/info/1166/93896.htm" target="_blank">吴建平</a>). I earned my Ph.D. degree from Tsinghua University in 2015. Now, I work with Professor Xingwei Wang (<a href="https://neu.edu.cn/info/1012/3221.htm" target="_blank">王兴伟</a>). My main research interests include computer networks, as well as the bridging between networking and AI.
 
 # 🔥 News
+- 2026.08: 🎉🎉 We have one papers accepted by EuroSys [CCF A].
+- 2026.07: 🎉🎉 We have one papers accepted by ICNP [CCF B].
 - 2025.12: &nbsp;🎉🎉🎉🎉🎉🎉We have one paper accepted by **NSDI 2026** [CCF A].
 - 2025.12: &nbsp;🎉🎉 We have two papers accepted by INFOCOM 2026 [CCF A].
 - 2025.09: &nbsp;**🎉🎉🎉🎉🎉🎉 IEEE ICNP 2025 Best Paper Award**.
@@ -51,6 +53,7 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 <h3><strong>2026</strong></h3>
 
 - HeteCCL: Synthesizing Near-Optimal Collective Communication Schedules for Heterogeneous GPU Clusters. Chenyang Hei, **Fuliang Li#**, Jiayi Li, Jiamin Cao, Chengxi Gao, Xiuzhu Sha, Tongrui Liu, Dengke Zhang, Ennan Zhai, Xingwei Wang. ***The USENIX Symposium on Network Systems Design and Implementation  (NSDI 2026).*** **[CCF A，东北大学首篇]** 
+- Accelerating Stateful Network Applications with Performance Prediction on SoC SmartNICs. Shaoke Xi, Jiaqi Gao#, **Fuliang Li#**, Minlan Yu, Ennan Zhai. The European Conference on Computer Systems (EuroSys 2026). [CCF A]
 - ConnSched: Selective Connection Offloading Framework for Accelerating Stateful NFs with DPU. Songlin Chen, **Fuliang Li#**, Qin Chen, Chengxi Gao, Man Hou, Jiaxing Shen. <i> IEEE International Conference on Computer Communications (INFOCOM 2026). </i> [CCF A]
 - One-Sketch: A Unified Framework for Per-Flow Cardinality Measurement with Flexible Bias Control. Kejun Guo, **Fuliang Li#**, Jiaxing Shen, Haorui Wan, Songlin Chen, Man Hou. <i> IEEE International Conference on Computer Communications (INFOCOM 2026). </i> [CCF A]
 - ConfigTransLE: Large Language Models Enhanced Network Configuration Translation. Naigong Zheng, **Fuliang Li#**, Bocheng Liang, Yu Yang, Chenyang Liu,  Chengxi Gao, Xingwei Wang, Jiannong Cao.  *IEEE Transactions on Networking*. [CCF A] 
@@ -61,6 +64,7 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 - AI-Enabled Intelligent Defense for Link Flooding Attacks in Software Defined Networks. Qiang He, Quanwei Li, Chuangchuang Zhang, **Fuliang Li**, Xingwei Wang, Chi Xu, Ammar Hawbani, Keping Yu. IEEE *Transactions on Computers*. [CCF A] 
 - Robust SFC Placement in Next Generation Multi-Domain IoT Networks Under Resource Demand Uncertainty. Chuangchuang Zhang, Qiang He, **Fuliang Li**, Xingwei Wang, Wei Qian, Junxin Chen, Kaifa Zheng, Ammar Hawbani, Keping Yu. *IEEE Transactions on Mobile Computing*. [CCF A] 
 - PreConfig: A Unified Language Model Framework for Network Configuration Automation. **Fuliang Li**, Bocheng Liang, Haozhi Lang, Jiajie Zhang, Jiaxing Shen, Chengxi Gao, Xingwei Wang. *IEEE Transactions on Cognitive Communications and Networking*. [CCF B] 
+- VeriTrans: Semantic-Aware Network Configuration Translation via Intermediate Representation. Wanqing Liu+, Chunyuan Liu+, **Fuliang Li#**, Naigong Zheng, Chengxi Gao, Xingwei Wang.  *IEEE International Conference on Network Protocols (ICNP 2026)*. [CCF B，清华大学A类]
 - ChatGosen: A Network Configuration Synthesis Approach with Semantic-Computation Decoupling. Chunyuan Liu+, Zhaokun Tan+, **Fuliang Li#**, Bocheng Liang, Jiaxing Shen, Lei Yang, Xingwei Wang. <i> IEEE/ACM International Symposium on Quality of Service (IWQoS 2026). </i>  [CCF B]
 - UPServe: Backend Agnostic Proxy for Black-box Heterogeneous LLM Scheduling. Haorui Wan, Chenyang Hei, **Fuliang Li#**, Chengxi Gao, Yuhan Jia, Tongrui Liu, Xingwei Wang. <i> IEEE/ACM International Symposium on Quality of Service (IWQoS 2026). </i>  [CCF B]
 - Duet: Towards Efficient and Accurate Sketch-Based Measurement on DPUs. Yang Wu+, Songlin Chen+, **Fuliang Li#**, Man Hou, Jiaxing Sheng, Xingwei Wang. <i> IEEE/ACM International Symposium on Quality of Service (IWQoS 2026). </i>  [CCF B]

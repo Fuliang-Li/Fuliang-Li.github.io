@@ -20,6 +20,8 @@ redirect_from:
 Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bachelor’s degree in Computer Science and Engineering from Northeastern University in 2009 and was directly admitted to Tsinghua University’s Institute for Network Sciences and Cyberspace as a Ph.D. student, under the supervision of Professor Wu Jianping (<a href="https://www.tsinghua.edu.cn/info/1166/93896.htm" target="_blank">吴建平</a>). I earned my Ph.D. degree from Tsinghua University in 2015. Now, I work with Professor Xingwei Wang (<a href="https://neu.edu.cn/info/1012/3221.htm" target="_blank">王兴伟</a>). My main research interests include computer networks, as well as the bridging between networking and AI.
 
 # 🔥 News
+- 2026.10: &nbsp;🎉🎉🎉🎉🎉🎉**课题组研发的多设备互助通信共享技术已落地华为Mate90系列终端，并作为核心亮点在10月1日产品发布会上重磅发布**。
+- 2026.08: &nbsp;🎉🎉🎉🎉🎉🎉**课题组研发的拓扑亲和集合通信算法自动生成技术，攻克昇腾 GPU 集群通信性能瓶颈，并在在华为HCCL仓库正式开源。**
 - 2026.08: 🎉🎉 We have one paper accepted by EuroSys [CCF A].
 - 2026.07: 🎉🎉 We have one paper accepted by ICNP [CCF B].
 - 2025.12: &nbsp;🎉🎉🎉🎉🎉🎉We have one paper accepted by **NSDI 2026** [CCF A].
@@ -53,7 +55,7 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 <h3><strong>2026</strong></h3>
 
 - HeteCCL: Synthesizing Near-Optimal Collective Communication Schedules for Heterogeneous GPU Clusters. Chenyang Hei, **Fuliang Li#**, Jiayi Li, Jiamin Cao, Chengxi Gao, Xiuzhu Sha, Tongrui Liu, Dengke Zhang, Ennan Zhai, Xingwei Wang. ***The USENIX Symposium on Network Systems Design and Implementation  (NSDI 2026).*** **[CCF A，东北大学首篇]** 
-- Accelerating Stateful Network Applications with Performance Prediction on SoC SmartNICs. Shaoke Xi, Jiaqi Gao#, **Fuliang Li#**, Minlan Yu, Ennan Zhai. The European Conference on Computer Systems (EuroSys 2026). [CCF A]
+- Accelerating Stateful Network Applications with Performance Prediction on SoC SmartNICs. Shaoke Xi, Jiaqi Gao#, **Fuliang Li#**, Minlan Yu, Ennan Zhai. The European Conference on Computer Systems (EuroSys 2027). [CCF A]
 - ConnSched: Selective Connection Offloading Framework for Accelerating Stateful NFs with DPU. Songlin Chen, **Fuliang Li#**, Qin Chen, Chengxi Gao, Man Hou, Jiaxing Shen. <i> IEEE International Conference on Computer Communications (INFOCOM 2026). </i> [CCF A]
 - One-Sketch: A Unified Framework for Per-Flow Cardinality Measurement with Flexible Bias Control. Kejun Guo, **Fuliang Li#**, Jiaxing Shen, Haorui Wan, Songlin Chen, Man Hou. <i> IEEE International Conference on Computer Communications (INFOCOM 2026). </i> [CCF A]
 - ConfigTransLE: Large Language Models Enhanced Network Configuration Translation. Naigong Zheng, **Fuliang Li#**, Bocheng Liang, Yu Yang, Chenyang Liu,  Chengxi Gao, Xingwei Wang, Jiannong Cao.  *IEEE Transactions on Networking*. [CCF A] 
@@ -150,18 +152,21 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 - Reliable Fog-based Crowdsourcing: A Temporal-Spatial Task Allocation Approach. Yao Yu, <b>Fuliang Li#</b>, Shumei Liu, Jinli Huang, and Lei Guo. <i> IEEE Internet of Things Journal, vol. 7, no. 5, pp. 3968-3976. </i> [<A href="https://ieeexplore.ieee.org/abstract/document/8918307" target="_blank">pdf</A>].
 
 # 💡 Projects
+- 国家科技重大专项项目课题、2025.12-2028.12、课题负责人
 - 国家自然科学基金面上项目、2026.01-2029.12、项目负责人
 - 国家自然科学基金面上项目、基于意图的网络配置综合系统关键技术研究、2021.01-2024.12、项目负责人
 - 国家自然科学基金联合基金重点项目、面向算力网络的智能服务质量控制架构与关键技术研究、 2023.01-2026.12、单位课题负责人
 - 国家自然科学基金青年基金项目、移动社交网络中基于社交关系的新型路由机制研究、2017.01-2019.12、项目负责人
 - 国家重点研发计划子课题、面向智能路由的高精度网络状态感知、2020.01-2023.12、子课题负责人
 - 国家重点研发计划子课题、互联网基础行为大规模精确测量方法学、2019.07-2022.06、子课题负责人
+- 华为公司合作项目、分布式多设备端云多路传输技术合作项目、2025.12-2027.06、项目负责人
 - 华为公司合作项目、拓扑亲和集合通信自动生成技术合作项目、2025.06-2026.06、项目负责人
 - 华为公司合作项目、AI大语言模型配置翻译合作项目、2024.10-2025.10、项目负责人
 - 华为公司合作项目、HON Connect可靠远场P2P多路聚合技术研究合作项目、2021.10-2024.03、项目负责人
 - 华为公司合作项目、网络验证智库（配置综合与DSL）项目、2023.07-2024.07、项目负责人
 - 华为公司合作项目、基于网络意图的配置自动生成技术合作项目、2020.08-2021.08、项目负责人
 - 华为公司合作项目、路由意图&配置综合技术合作项目、2018.12-2019.12、项目负责人
+- 字节跳动合作项目、面向vRDMA网络的故障定位与自愈技术研究与应用合作协议、2026.04-2027.04、项目负责人
 - 字节跳动合作项目、基于交换机INT技术的高性能监控和智能故障定位与恢复系统的研究与应用、2023.03-2024.08、项目负责人
 - 蚂蚁集团合作项目、高性能异构集合通信优化与协同调度技术、2025.03-2026.03、项目负责人
 - 阿里巴巴合作项目、基于模糊测试的可编程数据平面错误检测、2023.04-2024.04、项目负责人

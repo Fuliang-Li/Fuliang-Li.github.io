@@ -21,7 +21,7 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 
 # 🔥 News
 - 2026.10: &nbsp;🎉🎉🎉🎉🎉🎉**课题组研发的多设备互助通信共享技术已落地华为Mate90系列终端，并作为核心亮点在10月1日产品发布会上重磅发布**。
-- 2026.08: &nbsp;🎉🎉🎉🎉🎉🎉**课题组研发的拓扑亲和集合通信算法自动生成技术，攻克昇腾 GPU 集群通信性能瓶颈，并在在华为HCCL仓库正式开源。**
+- 2026.08: &nbsp;🎉🎉🎉🎉🎉🎉**课题组研发的拓扑亲和集合通信算法自动生成技术，攻克昇腾GPU集群通信性能瓶颈，并在华为HCCL仓库正式开源。**
 - 2026.08: 🎉🎉 We have one paper accepted by EuroSys [CCF A].
 - 2026.07: 🎉🎉 We have one paper accepted by ICNP [CCF B].
 - 2025.12: &nbsp;🎉🎉🎉🎉🎉🎉We have one paper accepted by **NSDI 2026** [CCF A].

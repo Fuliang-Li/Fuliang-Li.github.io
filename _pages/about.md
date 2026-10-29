@@ -20,9 +20,10 @@ redirect_from:
 Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bachelor’s degree in Computer Science and Engineering from Northeastern University in 2009 and was directly admitted to Tsinghua University’s Institute for Network Sciences and Cyberspace as a Ph.D. student, under the supervision of Professor Wu Jianping (<a href="https://www.tsinghua.edu.cn/info/1166/93896.htm" target="_blank">吴建平</a>). I earned my Ph.D. degree from Tsinghua University in 2015. Now, I work with Professor Xingwei Wang (<a href="https://neu.edu.cn/info/1012/3221.htm" target="_blank">王兴伟</a>). My main research interests include computer networks, as well as the bridging between networking and AI.
 
 # 🔥 News
+- 2026.10: 🎉🎉 We have two papers accepted by **PPoPP 2027** [CCF A].
 - 2026.10: &nbsp;🎉🎉🎉🎉🎉🎉**课题组研发的多设备互助通信共享技术已落地华为Mate90系列终端，并作为核心亮点在10月1日产品发布会上重磅发布**。
 - 2026.08: &nbsp;🎉🎉🎉🎉🎉🎉**课题组研发的拓扑亲和集合通信算法自动生成技术，攻克昇腾GPU集群通信性能瓶颈，并在华为HCCL仓库正式开源。**
-- 2026.08: 🎉🎉 We have one paper accepted by EuroSys [CCF A].
+- 2026.08: 🎉🎉 We have one paper accepted by EuroSys 2027 [CCF A].
 - 2026.07: 🎉🎉 We have one paper accepted by ICNP [CCF B].
 - 2025.12: &nbsp;🎉🎉🎉🎉🎉🎉We have one paper accepted by **NSDI 2026** [CCF A].
 - 2025.12: &nbsp;🎉🎉 We have two papers accepted by INFOCOM 2026 [CCF A].
@@ -55,6 +56,8 @@ Fuliang Li (李福亮), Professor of Northeastern University. I obtained my Bach
 <h3><strong>2026</strong></h3>
 
 - HeteCCL: Synthesizing Near-Optimal Collective Communication Schedules for Heterogeneous GPU Clusters. Chenyang Hei, **Fuliang Li#**, Jiayi Li, Jiamin Cao, Chengxi Gao, Xiuzhu Sha, Tongrui Liu, Dengke Zhang, Ennan Zhai, Xingwei Wang. ***The USENIX Symposium on Network Systems Design and Implementation  (NSDI 2026).*** **[CCF A，东北大学首篇]** 
+- GenServe: Request-Centric Disaggregated Serving for Mixed LLM  Workloads.  Chenyang Hei, **Fuliang Li#**, Qi Liu, Junhang Li, Congcong Miao, Chengxi Gao, Xiuzhu Sha, Haorui Wan, Peiyan Zou, Yongqiang Lu, Dengke Zhang, Xingwei Wang. ***ACM SIGPLAN Annual Symposium on Principles and  Practice of Parallel Programming (PPoPP 2027) .*****[CCF A，东北大学首篇]** 
+- VeriCCL: Verification-Guided Scheduling for Collective Communication. Chenyang Hei, **Fuliang Li#**, Donglin Zheng, Chengxi Gao, Tongrui Liu, Xiuzhu Sha, Haorui Wan, Xingwei Wang. ***ACM SIGPLAN Annual Symposium on Principles and  Practice of Parallel Programming (PPoPP 2027) .*****[CCF A，东北大学第二篇]** 
 - Accelerating Stateful Network Applications with Performance Prediction on SoC SmartNICs. Shaoke Xi, Jiaqi Gao#, **Fuliang Li#**, Minlan Yu, Ennan Zhai. The European Conference on Computer Systems (EuroSys 2027). [CCF A]
 - ConnSched: Selective Connection Offloading Framework for Accelerating Stateful NFs with DPU. Songlin Chen, **Fuliang Li#**, Qin Chen, Chengxi Gao, Man Hou, Jiaxing Shen. <i> IEEE International Conference on Computer Communications (INFOCOM 2026). </i> [CCF A]
 - One-Sketch: A Unified Framework for Per-Flow Cardinality Measurement with Flexible Bias Control. Kejun Guo, **Fuliang Li#**, Jiaxing Shen, Haorui Wan, Songlin Chen, Man Hou. <i> IEEE International Conference on Computer Communications (INFOCOM 2026). </i> [CCF A]
